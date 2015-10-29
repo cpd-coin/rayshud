@@ -5,7 +5,7 @@
 		"fieldName"				"CDamageAccountPanel"
 		"text_x"				"0"
 		"text_y"				"0"
-		"PositiveColor"			"Heal Numbers"
+		"PositiveColor"			"255 0 0 1"
 		"NegativeColor"			"Damage Numbers"
 		"delta_item_x"			"0"
 		"delta_item_end_y"		"0"
